@@ -15,6 +15,7 @@ h3,
 p,
 li {
     color: green;
+    
 }
 
 img {
@@ -83,4 +84,8 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+.current-page{
+    color: darkred;
 }
