@@ -85,7 +85,9 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
-
+.Locationsli{
+    list-style-type: none;
+}
 .current-page{
     color: darkred;
 }
